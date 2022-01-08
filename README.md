@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Si%20hyun&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Si%20hyun&fontSize=90&fontColor=FFFFFF)
 
 ### Hi there 👋
 
