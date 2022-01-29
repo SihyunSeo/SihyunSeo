@@ -6,9 +6,9 @@
 ### 💪 Skills
 #### Language & Tools
 <p>
-  <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=java&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white" /></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=Django&logoColor=white"/></a>&nbsp
 </p>
