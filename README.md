@@ -3,7 +3,6 @@
   👋&nbsp; Hi there! I'm Sihyun
 </h1>
 
-<br><br><br>
 <h3 align="center"> 💪 Skills </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=black"/></a>&nbsp
