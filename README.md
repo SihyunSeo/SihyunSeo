@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=1B70FC&height=200&section=header&text=Si%20hyun&fontSize=90&fontColor=FFFFFF)
 <h1 align="center">
   👋&nbsp; Hi there! I'm Sihyun
+  <br>
 </h1>
 
 <h3 align="center"> 💪 Skills </h3>
