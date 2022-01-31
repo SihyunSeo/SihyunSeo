@@ -3,6 +3,7 @@
   👋&nbsp; Hi there! I'm Sihyun
 </h1>
 
+<br><br><br>
 <h3 align="center"> 💪 Skills </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=black"/></a>&nbsp
@@ -16,13 +17,11 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white" /></a>&nbsp
 <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=Django&logoColor=white"/></a>&nbsp
-<br>
+<br><br><br>
 </p>
 
 <p>
-&nbsp&nbsp&nbsp&nbsp&nbsp
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SihyunSeo&show_icons=true&locale=en&layout=compact&theme=dark" alt="SihyunSeo" />
-&nbsp&nbsp&nbsp&nbsp&nbsp
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=SihyunSeo&show_icons=true&locale=en&theme=dark" alt="SihyunSeo" />
 </p>
 
