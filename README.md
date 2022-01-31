@@ -21,8 +21,8 @@
 </p>
 
 <p>
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SihyunSeo&show_icons=true&locale=en&layout=compact&theme=dark" alt="SihyunSeo" />
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=SihyunSeo&show_icons=true&locale=en&theme=dark" alt="SihyunSeo" />
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SihyunSeo&show_icons=true&locale=en&layout=compact&theme=dark" alt="SihyunSeo" />
+<img align="right"width="50%" src="https://github-readme-stats.vercel.app/api?username=SihyunSeo&show_icons=true&locale=en&theme=dark" alt="SihyunSeo" />
 </p>
 
 <!--
