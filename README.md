@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=Django&logoColor=white"/></a>&nbsp
 </p>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SihyunSeo&show_icons=true&locale=en&layout=compact&theme=dark" alt="SihyunSeo" />
 
 <!--
 **SihyunSeo/SihyunSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
