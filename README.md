@@ -20,10 +20,16 @@
 <br><br><br>
 </p>
 
-<p>
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SihyunSeo&show_icons=true&locale=en&layout=compact&theme=dark" alt="SihyunSeo" />
-<img align="right"width="50%" src="https://github-readme-stats.vercel.app/api?username=SihyunSeo&show_icons=true&locale=en&theme=dark" alt="SihyunSeo" />
-</p>
+<table>
+  <tr>
+    <td width="42%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SihyunSeo&show_icons=true&locale=en&layout=compact&theme=dark" alt="SihyunSeo" />
+    </td>
+    <td  width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=SihyunSeo&show_icons=true&locale=en&theme=dark" alt="SihyunSeo" />   
+    </td>
+  </tr>
+</table>
 
 <!--
 **SihyunSeo/SihyunSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
