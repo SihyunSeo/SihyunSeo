@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td width="42%">
+    <td width="42%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SihyunSeo&show_icons=true&locale=en&layout=compact&theme=dark" alt="SihyunSeo" />
     </td>
     <td  width="50%">
