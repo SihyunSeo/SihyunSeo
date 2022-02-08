@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align="center"> 💪 Skills </h3>
+<h3 align="center"> 🛠 Skills 🛠 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></a>&nbsp
