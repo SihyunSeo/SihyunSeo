@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=1B70FC&height=150&width=100%&section=header&text=Seo%20Si%20hyun&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=soft&color=1B70FC&height=150&section=header&text=Seo%20Si%20hyun&fontSize=90&fontColor=FFFFFF)
 <h1 align="center">
   👋&nbsp; Hi there! I'm Sihyun
   <br>
