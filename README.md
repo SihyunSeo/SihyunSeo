@@ -33,7 +33,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SihyunSeo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="SihyunSeo" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SihyunSeo&show_icons=true&locale=en&theme=dark" alt="SihyunSeo" />   
+      <img src="https://github-readme-stats.vercel.app/api?username=SihyunSeo&show_icons=true&locale=en&theme=chartreuse-dark" alt="SihyunSeo" />   
     </td>
   </tr>
 </table>
