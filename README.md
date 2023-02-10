@@ -5,6 +5,7 @@
 </h1> -->
 
 <h3 align="center"> 🛠 Skills 🛠 </h3>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>&nbsp
