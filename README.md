@@ -31,16 +31,10 @@
 <br><br><br>
 </p>
 
-<table>
-  <tr>
-    <td width="42%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SihyunSeo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="SihyunSeo" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SihyunSeo&show_icons=true&locale=en&theme=chartreuse-dark" alt="SihyunSeo" />   
-    </td>
-  </tr>
-</table>
+<p>
+<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs?username=SihyunSeo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="SihyunSeo" />
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=SihyunSeo&show_icons=true&locale=en&theme=chartreuse-dark" alt="SihyunSeo" /> 
+</p> 
 
 <!--
 **SihyunSeo/SihyunSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
