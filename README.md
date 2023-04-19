@@ -1,10 +1,12 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=1B70FC&height=150&section=header&text=Seo%20Si%20hyun&fontSize=90&fontColor=FFFFFF) -->
-<!-- <h1 align="center">
+<h1 align="center">
   👋&nbsp; Hi there! I'm Sihyun
   <br>
-</h1> -->
+</h1>
+[![Gmail Badge](https://img.shields.io/badge/-tjtlgus5@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tjtlgus5@gmail.com)](mailto:tjtlgus5@gmail.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://github.com/veggie-garden) -->
 
-<h3 align="center"> 🛠 Skills 🛠 </h3>
+<h4 align="center"> 🛠 Skills 🛠 </h4>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=black"/></a>&nbsp
@@ -31,7 +33,7 @@
 <br><br><br>
 </p>
 <p align='center'>
-  🛠️ Github Stats
+  🛠️ Github Stats 🛠️
 </p>
 <p align='center'>
 <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs?username=SihyunSeo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="SihyunSeo" />
