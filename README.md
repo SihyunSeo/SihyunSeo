@@ -30,10 +30,10 @@
 
 <br><br><br>
 </p>
-
-
 <p align='center'>
   🛠️ Github Stats
+</p>
+<p align='center'>
 <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs?username=SihyunSeo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="SihyunSeo" />
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=SihyunSeo&show_icons=true&locale=en&theme=chartreuse-dark" alt="SihyunSeo" /> 
 </p> 
