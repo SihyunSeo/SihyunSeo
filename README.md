@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=1B70FC&height=150&section=header&text=Seo%20Si%20hyun&fontSize=90&fontColor=FFFFFF) -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSihyunSeo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<!--
 <h1 align="center">
   <br>
   👋&nbsp; Hi there!
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">&nbsp
 <br>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a>&nbsp
-
+-->
 <br><br><br>
 </p>
 <p align='center'>
