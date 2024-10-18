@@ -35,9 +35,14 @@
 
 <p align='center' width='100%'>
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/SihyunSeo"/>
-  </a>  
+    <img
+      src="https://render.gitanimals.org/farms/SihyunSeo"
+      width="600"
+      height="300"
+    />
+</a>  
 </p>
+
 <br>
 </p>
 <p align='center'>
